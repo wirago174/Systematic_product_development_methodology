@@ -5,7 +5,7 @@
 
 **Спойлер**: разработанное изделие:
 
-<img width="303" height="400" alt="Погодный светильник (готовый)" src="https://github.com/user-attachments/assets/72c21646-40b6-45ea-a0da-6d392af54945" />
+![IMG_20260311_222150](https://github.com/user-attachments/assets/10df23c2-5e36-4fbf-85df-f1a6189a7213)
 
 # 1. Выявление потребности
 ## 1.1 Интервью с аудиторией, наблюдения, анализ "болей"
