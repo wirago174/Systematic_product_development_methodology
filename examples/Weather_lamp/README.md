@@ -5,7 +5,7 @@
 
 **Спойлер**: разработанное изделие:
 
-![IMG_20260311_222150](https://github.com/user-attachments/assets/10df23c2-5e36-4fbf-85df-f1a6189a7213)
+<img width="400" height="833" alt="Погодная шкала" src="https://github.com/user-attachments/assets/10df23c2-5e36-4fbf-85df-f1a6189a7213" />
 
 # 1. Выявление потребности
 ## 1.1 Интервью с аудиторией, наблюдения, анализ "болей"
